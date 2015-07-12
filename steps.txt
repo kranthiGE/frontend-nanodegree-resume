@@ -1,0 +1,13 @@
+
+- Re-arrange JSON data
+- Update exp, projects
+- Update with photo
+- add vertical skills to header
+- add contacts to header
+- add media query to photo & skills
+- add contacts to footer
+
+
+- add bootstrap nav menu http://getbootstrap.com/components/?#navbar
+
+
